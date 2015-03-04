@@ -27,7 +27,7 @@ An AngularJS 1.x exam from beginner to expert
 * Why would use you .config() and .run() phase?
 * What is np-app and how does angular bootstrap?
 * When would you use $q.all?
-* Where would you make your network calls controller, template, directive, or service and why? example $http.get().then()
+* Where would you make your network calls controller, template, directive, or service and why? [Answer](https://gist.github.com/gdi2290/b9d34955f0d3bce2c1b6)
 * Say that you are going to alert an error where would you put that alert from a network call? service, controller, template and why? 
 * How would you dynamically filter a list with ng-repeat? (clicking on different filters)
 * What's ng-messages and ng-message?
@@ -77,7 +77,7 @@ An AngularJS 1.x exam from beginner to expert
 * What are $eval, $parse and $evalAsync?
 * What is $applyAsync?
 * What's a decorator?
-* How would you filter a large list with ng-repeat include data from the server?
+* How would you filter a large list with ng-repeat include data from the server and client?
 * How would you grab the $injector/$scope from the chrome console?
 * Why is there ng-form?
 * How would you dynamically create forms?
