@@ -42,6 +42,7 @@
 * What's ui-router and why use it over ng-route?
 * What are states?
 * How do you resolve resources via state/route and how would you do so?
+* Given 3 nested states, how would you load the most nested one after the root state resolves while allowing the middle state to load asynchronously?
 * What types of directives are there? Angular: element, attribute, class (no one uses class)
 * What is $scope?
 * What is $rootScope?
