@@ -12,7 +12,7 @@
 * How would you filter a list via ng-repeat?
 * What's the difference between angular.module('app' , []) and angular.module('app')
 * What are directives (briefly)? 
-* Why would you use ng-submit over ng-click in some cases?
+* Why would you use ng-submit instead of ng-click in some cases?
 * What's Dependency Injection?
 * Do other frameworks use dependency injection if only intervally? Answer: yes (React,Ember)
 * How would you inject services and what are the different ways to do so?
@@ -23,13 +23,13 @@
 * What are filters?
 * Why would you use ng-src, ng-bind, and ng-cloak?
 * What's the difference between ng-if and ng-show?
-* What phases are there is angular? Answer: config -> bootstrap -> run
+* What phases are there in angular? Answer: config -> bootstrap -> run
 * Why would use you .config() and .run() phase?
-* What is np-app and how does angular bootstrap?
+* What is ng-app and how does angular bootstrap?
 * When would you use $q.all?
 * Where would you make your network calls controller, template, directive, or service and why? (where would you use $http)
-* Say that you are going to alert an error where would you put that alert from a network call? service, controller, template and why? [Answer](https://gist.github.com/gdi2290/b9d34955f0d3bce2c1b6)
-* How would you dynamically filter a list with ng-repeat? (clicking on different filters)
+* Say that you are going to alert an error where would you put that alert from a network call? Service, controller, template and why? [Answer](https://gist.github.com/gdi2290/b9d34955f0d3bce2c1b6)
+* How would you dynamically filter a list with an ng-repeat? (clicking on different filters)
 * What's ng-messages and ng-message?
 * What's ng-style and ng-class?
 * How would you attach something to the header of every http call?
@@ -58,7 +58,7 @@
 * What's the difference between controller and link directives?
 * How do you require controllers in directives?
 * What's an isolated scope?
-* What for an isolate scope what are these symbols ?,@,=,&,*
+* For an isolate scope what are these symbols ?,@,=,&,*
 * What are compile/pre-link/post-link phase for directives?
 * What is $interpolate?
 * What is $compile?
@@ -77,7 +77,7 @@
 * What are $eval, $parse and $evalAsync?
 * What is $applyAsync?
 * What's a decorator?
-* How would you filter a large list with ng-repeat include data from the server and client?
+* How would you filter a large list with ng-repeat to include data from the server and client?
 * How would you grab the $injector/$scope from the chrome console?
 * Why is there ng-form?
 * How would you dynamically create forms?
@@ -86,9 +86,9 @@
 * How would you use a module loader/bundler such as browserify, webpack, or systemjs with angular?
 * How would you asynchronously load angular?
 * How would you inject server rendered data into angular?
-* What is needed for angular to rendered on the server to be sent down to the client for FastBoot?
+* What is needed for angular to be rendered on the server to be sent down to the client for FastBoot?
 * Generally speaking how would you paraphrase angular?
-* What are the different ways to architecture an angular?
+* What are the different ways to design architecture for an angular app?
 * What are the pros and cons of each design?
 * What are some anti patterns developers tend to fall into while using angular?
 * What are the problems currently facing angular1?
