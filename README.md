@@ -1,5 +1,5 @@
 # ngExam
-An AngularJS 1.x exam from beginner to expert
+An AngularJS 1.x exam from beginner to expert created by [@gdi2290](https://twitter.com/gdi2290)
 
 
 * What's MVC? 
@@ -93,3 +93,11 @@ An AngularJS 1.x exam from beginner to expert
 * What are some anti patterns developers tend to fall into while using angular?
 * What are the problems currently facing angular1?
 * Explain how Angular2 is solving all of the problems from 1.x
+
+<center>
+
+![AngularClass](https://angularclass.com/images/ng-crown.svg)
+##[AngularClass](https://angularclass.com)
+Learn Angular in 2 days from the best
+
+</center>
