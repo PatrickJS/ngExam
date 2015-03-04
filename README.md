@@ -1,5 +1,5 @@
 # ngExam
-An AngularJS 1.x exam from beginner to expert created by [@gdi2290](https://twitter.com/gdi2290)
+> An AngularJS 1.x exam from beginner to expert created by [@gdi2290](https://twitter.com/gdi2290)
 
 
 * What's MVC? 
@@ -94,10 +94,14 @@ An AngularJS 1.x exam from beginner to expert created by [@gdi2290](https://twit
 * What are the problems currently facing angular1?
 * Explain how Angular2 is solving all of the problems from 1.x
 
-<center>
+## TODO
+* Include multiple answers for each question
+* Create click through wizard
 
-![AngularClass](https://angularclass.com/images/ng-crown.svg)
+<br><br><br>
+
+[![AngularClass](ngClass)](https://angularclass.com)
 ##[AngularClass](https://angularclass.com)
-Learn Angular in 2 days from the best
+> Learn Angular in 2 days from the best
 
-</center>
+[ngClass]: https://angularclass.com/images/ng-crown.svg  "Angular Class"
