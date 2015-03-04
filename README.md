@@ -92,4 +92,4 @@ An AngularJS 1.x exam from beginner to expert
 * What are the pros and cons of each design?
 * What are some anti patterns developers tend to fall into while using angular?
 * What are the problems currently facing angular1?
-* Example how Angular2 is solving all of them problems.
+* Explain how Angular2 is solving all of the problems from 1.x
