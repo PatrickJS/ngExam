@@ -71,7 +71,7 @@
 * What's the difference between $broadcast, and $emit?
 * What are $timeout and $interval and how do you cancel them?
 * What's dirty checking?
-* Do other frameworks use dirty checking? Answer: yes (React,Ember,Polymer)
+* Do other frameworks use dirty checking? Answer: yes (React,Polymer)
 * What is the $digest loop?
 * What's the difference between $digest and $apply?
 * What are $watchGroup and $watchCollection?
