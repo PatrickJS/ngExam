@@ -58,7 +58,8 @@
 * What are $validators and $asyncValidators?
 * What's the difference between scope and $scope?
 * What's the difference between controller and link directives?
-* How do you require controllers in directives?
+* How do you require a controller in a directive?
+* How do you require more than one controller in a directive?
 * What's an isolated scope?
 * For an isolate scope what are these symbols ?,@,=,&,*
 * What are compile/pre-link/post-link phase for directives?
