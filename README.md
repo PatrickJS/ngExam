@@ -17,6 +17,7 @@
 * Do other frameworks use dependency injection if only intervally? Answer: yes (React,Ember)
 * How would you inject services and what are the different ways to do so?
 * What's jqLite?
+* How do you ensure Angular uses jQuery when including them both?
 * What are promises and how would you use them?
 * What's the difference between factory/provider/service/value/constant?
 * When would you use each one?
