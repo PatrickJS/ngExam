@@ -38,6 +38,7 @@
 * What are $http interceptors?
 * What is $locationChangeStart?
 * What's html5Mode?
+* How do you turn off cache for a $http call?
 * What is the $templateCache?
 * How would you implement auth as in locking down certain parts of the app? 
 * What's ui-router and why use it over ng-route?
