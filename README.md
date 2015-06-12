@@ -90,6 +90,8 @@
 * How would you use a module loader/bundler such as browserify, webpack, or systemjs with angular?
 * How would you asynchronously load angular?
 * How would you inject server rendered data into angular?
+* What's a document fragment?
+* What's the Shadow DOM?
 * What is needed for your angular web app to work with JavaScript disabled?
 * What is needed for your angular web app to be rendered on the server to be sent down to the client for FastBoot?
 * Generally speaking how would you paraphrase angular?
