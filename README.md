@@ -89,11 +89,11 @@
 * How do you structure your files for a large team/project?
 * How would you use a module loader/bundler such as browserify, webpack, or systemjs with angular?
 * How would you asynchronously load angular?
-* How would you inject server rendered data into angular?
+* How would you inject server rendered data into client angular?
 * What's a document fragment?
 * What's the Shadow DOM?
 * What is needed for your angular web app to work with JavaScript disabled?
-* What is needed for your angular web app to be rendered on the server to be sent down to the client for FastBoot?
+* What is needed for your angular web app to be rendered on the server to be sent down to the client?
 * Generally speaking how would you paraphrase angular?
 * How would you progressively enhance your RESTful app with a pub/sub?
 * How would you structure your app if you only had a realtime (pub/sub) API (no REST)?
