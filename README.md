@@ -6,11 +6,11 @@
 * What's MVVM?
 * What's two way binding?
 * What's ng-model?
-* What is $http?
+* What is `$http`?
 * What is ng-repeat?
-* What are $index, $even, $odd, $first, and $last?
+* What are `$index`, `$even`, `$odd`, `$first`, and `$last`?
 * How would you filter a list via ng-repeat?
-* What's the difference between angular.module('app' , []) and angular.module('app')
+* What's the difference between `angular.module('app' , [])` and `angular.module('app')`
 * What are directives (briefly)? 
 * Why would you use ng-submit instead of ng-click in some cases?
 * What's Dependency Injection?
@@ -25,64 +25,64 @@
 * Why would you use ng-src, ng-bind, and ng-cloak?
 * What's the difference between ng-if and ng-show?
 * What phases are there in angular? Answer: config -> bootstrap -> run
-* Why would use you .config() and .run() phase?
+* Why would use you `.config()` and `.run()` phase?
 * What is ng-app and how does angular bootstrap?
-* When would you use $q.all?
+* When would you use `$q.all()`?
 * Where would you make your network calls controller, template, directive, or service and why? (where would you use $http)
 * Say that you are going to alert an error where would you put that alert from a network call? Service, controller, template and why? [Answer](https://gist.github.com/gdi2290/b9d34955f0d3bce2c1b6)
 * How would you dynamically filter a list with an ng-repeat? (clicking on different filters)
 * What's ng-messages and ng-message?
 * What's ng-style and ng-class?
 * How would you attach something to the header of every http call?
-* What is $on and how would you use it?
-* What are $http interceptors?
-* What is $locationChangeStart?
+* What is `$scope.$on()` and how would you use it?
+* What are `$http` interceptors?
+* What is `"$locationChangeStart"`?
 * What's html5Mode?
-* How do you turn off cache for a $http call?
-* What is the $templateCache?
+* How do you turn off cache for a `$http` call?
+* What is the `$templateCache`?
 * How would you implement auth as in locking down certain parts of the app? 
 * What's ui-router and why use it over ng-route?
 * What are states?
 * How do you resolve resources via state/route and how would you do so?
 * Given 3 nested states, how would you load the most nested one after the root state resolves while allowing the middle state to load asynchronously?
 * What types of directives are there? Angular: element, attribute, class (no one uses class)
-* What is $scope?
-* What is $rootScope?
-* What is $destroy?
+* What is `$scope`?
+* What is `$rootScope`?
+* What is `"$destroy"`?
 * What's one time binding?
-* When and where would you normally use $watch?
+* When and where would you normally use `.$watch()`?
 * What's a stateful filter vs a stateless filter?
-* What are $dirty, $pristine, $valid, $invalid, and $submitted?
+* What are `.$dirty`, `.$pristine`, `.$valid`, `.$invalid`, and `.$submitted`?
 * What's NgModelController? 
 * What's FormController?
 * What's ng-model-options and why would you use it?
-* What are $validators and $asyncValidators?
-* What's the difference between scope and $scope?
+* What are `$validators` and `$asyncValidators`?
+* What's the difference between `scope`, `$scope`, and `$rootScope`?
 * What's the difference between controller and link directives?
 * How do you require a controller in a directive?
 * How do you require more than one controller in a directive?
 * What's an isolated scope?
-* For an isolate scope what are these symbols ?,@,=,&,*
+* For an isolate scope what are these symbols `?`,`@`,`=`,`&`,`*` in relation to directives
 * What are compile/pre-link/post-link phase for directives?
-* What is $interpolate?
-* What is $compile?
-* What is $observe?
+* What is `$interpolate`?
+* What is `$compile`?
+* What is `$observe`?
 * What's transclusion?
 * Why would you need transclusion?
-* What's bindToController and controllerAs syntax? 
+* What's `bindToController:` and `controllerAs:` syntax? 
 * What are directives and what are components?
-* What's the difference between $broadcast, and $emit?
-* What are $timeout and $interval and how do you cancel them?
+* What's the difference between `.$broadcast()`, and `.$emit()`?
+* What are `$timeout()` and `$interval()` and how do you cancel them?
 * What's dirty checking?
 * Do other frameworks use dirty checking? Answer: yes (React,Polymer)
-* What is the $digest loop?
-* What's the difference between $digest and $apply?
-* What are $watchGroup and $watchCollection?
-* What are $eval, $parse and $evalAsync?
-* What is $applyAsync?
-* What's a decorator?
+* What is the `.$digest()` loop?
+* What's the difference between `.$digest()` and `.$apply()`?
+* What are `$watchGroup` and `$watchCollection`?
+* What are `$eval`, `$parse` and `$evalAsync`?
+* What is `$applyAsync`?
+* What's a decorator in relation to angular's module system?
 * How would you filter a large list with ng-repeat to include data from the server and client?
-* How would you grab the $injector/$scope from the chrome console?
+* How would you grab the `$injector`/`$scope` from the chrome console?
 * Why is there ng-form?
 * How would you dynamically create forms?
 * What's CSP and how does it relate to angular?
@@ -91,7 +91,7 @@
 * How would you asynchronously load angular?
 * How would you inject server rendered data into client angular?
 * What's a document fragment?
-* What's the Shadow DOM?
+* What's the ShadowDOM?
 * What is needed for your angular web app to work with JavaScript disabled?
 * What is needed for your angular web app to be rendered on the server to be sent down to the client?
 * Generally speaking how would you paraphrase angular?
@@ -101,7 +101,9 @@
 * What are the pros and cons of each design?
 * What are some anti patterns developers tend to fall into while using angular?
 * What are the problems currently facing angular1?
-* Explain how Angular2 is solving all of the problems from 1.x
+* Explain how Angular 2 is solving all of the problems from 1.x
+* Demonstrate a few ways to migrate an Angular 1 app to Angular 2
+
 
 ## TODO
 * Include multiple answers for each question
