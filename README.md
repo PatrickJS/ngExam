@@ -14,7 +14,7 @@
 * What are directives (briefly)? 
 * Why would you use ng-submit instead of ng-click in some cases?
 * What's Dependency Injection?
-* Do other frameworks use dependency injection if only intervally? Answer: yes (React,Ember)
+* Do other frameworks use dependency injection (even if only for internal use)? Answer: yes (React,Ember)
 * How would you inject services and what are the different ways to do so?
 * What's jqLite?
 * How do you ensure Angular uses jQuery when including them both?
