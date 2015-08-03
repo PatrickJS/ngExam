@@ -2,8 +2,8 @@
 > An AngularJS 1.x exam from beginner to expert created by [@gdi2290](https://twitter.com/gdi2290)
 
 
-* What's MVC? 
-* What's MVVM?
+* What's MVC architecture? 
+* What's MVVM architecture?
 * What's two way binding?
 * What's ng-model?
 * What is `$http`?
@@ -103,6 +103,7 @@
 * What are the problems currently facing angular1?
 * Explain how Angular 2 is solving all of the problems from 1.x
 * Demonstrate a few ways to migrate an Angular 1 app to Angular 2
+* What's the difference between MVC, MVVM, MVP(SC), MVP(PV), PM, and Flux architecture?
 
 
 ## TODO
