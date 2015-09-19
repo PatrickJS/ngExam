@@ -105,13 +105,13 @@
 * Demonstrate a few ways to migrate an Angular 1 app to Angular 2
 * What's the difference between MVC, MVVM, MVP(SC), MVP(PV), PM, and Flux architecture?
 
+___
 
-## TODO
-* Include multiple answers for each question
-* Create click through wizard
+enjoy — **AngularClass** 
 
-<br><br><br>
+<br><br>
 
-[![AngularClass](https://angularclass.com/images/ng-crown.svg  "Angular Class")](https://angularclass.com)
+[![AngularClass](https://cloud.githubusercontent.com/assets/1016365/9863770/cb0620fc-5af7-11e5-89df-d4b0b2cdfc43.png  "Angular Class")](https://angularclass.com)
 ##[AngularClass](https://angularclass.com)
-> Learn Angular in 2 days from the best
+> Learn AngularJS, Angular 2, and Modern Web Development form the best.
+> Looking for corporate Angular training, want to host us, or Angular consulting? scott@angularclass.com
