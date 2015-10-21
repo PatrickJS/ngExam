@@ -25,7 +25,7 @@
 * Why would you use ng-src, ng-bind, and ng-cloak?
 * What's the difference between ng-if and ng-show?
 * What phases are there in angular? Answer: config -> bootstrap -> run
-* Why would use you `.config()` and `.run()` phase?
+* Why would you use `.config()` and `.run()` phase?
 * What is ng-app and how does angular bootstrap?
 * When would you use `$q.all()`?
 * Where would you make your network calls controller, template, directive, or service and why? (where would you use $http)
