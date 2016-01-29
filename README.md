@@ -103,7 +103,7 @@
 * What are the problems currently facing angular1?
 * Explain how Angular 2 is solving all of the problems from 1.x
 * Demonstrate a few ways to migrate an Angular 1 app to Angular 2
-* What's the difference between MVC, MVVM, MVP(SC), MVP(PV), PM, and Flux architecture?
+* What's the difference between MVC, MVVM, MVP(SC), MVP(PV), PM, and how does it compare to Flux/Redux architecture?
 
 ___
 
