@@ -114,7 +114,6 @@
 * Explain what *$httpBackend* and *$httpBackend.flush* are used for
 * Explain what *angular.mock* is used for
 
-
 ___
 
 enjoy — **AngularClass** 
