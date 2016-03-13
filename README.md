@@ -105,7 +105,7 @@
 * Demonstrate a few ways to migrate an Angular 1 app to Angular 2
 * What's the difference between MVC, MVVM, MVP(SC), MVP(PV), PM, and how does it compare to Flux/Redux architecture?
 * How are dependencies handled when testing Angualar controllers and services?
-* How is `$scope` injected when testing Angular controllers
+* How is `$scope` injected when testing Angular controllers?
 * What is the purpose of wrapping core Angular providers and services in double underscores? ex: `_$rootScope_`?
 * Describe the necessary steps to test the Angular `$http` service
 * How would you test an `$http` request to a third party API such as Youtube?
